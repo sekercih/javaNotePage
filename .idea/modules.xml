@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java/ArkadaşSayılar/ArkadaşSayılar.iml" filepath="$PROJECT_DIR$/Java/ArkadaşSayılar/ArkadaşSayılar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Java/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/ClassesDemo/ClassesDemo.iml" filepath="$PROJECT_DIR$/Java/ClassesDemo/ClassesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/EncapsulationExample/EncapsulationExample.iml" filepath="$PROJECT_DIR$/Java/EncapsulationExample/EncapsulationExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Java/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Interface/Interface.iml" filepath="$PROJECT_DIR$/Java/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Perfect Number/Perfect Number.iml" filepath="$PROJECT_DIR$/Java/Perfect Number/Perfect Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/PrimeNumber/PrimeNumber.iml" filepath="$PROJECT_DIR$/Java/PrimeNumber/PrimeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/RecapDemo2/RecapDemo2.iml" filepath="$PROJECT_DIR$/Java/RecapDemo2/RecapDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/SesliHarfler/SesliHarfler.iml" filepath="$PROJECT_DIR$/Java/SesliHarfler/SesliHarfler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/abstractDemo/abstractDemo.iml" filepath="$PROJECT_DIR$/Java/abstractDemo/abstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/abstractTest/abstractTest.iml" filepath="$PROJECT_DIR$/Java/abstractTest/abstractTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/arraysDemo/arraysDemo.iml" filepath="$PROJECT_DIR$/Java/arraysDemo/arraysDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/conditionals/conditionals.iml" filepath="$PROJECT_DIR$/Java/conditionals/conditionals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/datatypes/datatypes.iml" filepath="$PROJECT_DIR$/Java/datatypes/datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/interfaceDemo/interfaceDemo.iml" filepath="$PROJECT_DIR$/Java/interfaceDemo/interfaceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/Java/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/javaNotePage.iml" filepath="$PROJECT_DIR$/Java/javaNotePage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/loopDemo/loopDemo.iml" filepath="$PROJECT_DIR$/Java/loopDemo/loopDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" filepath="$PROJECT_DIR$/Java/multiDimensionalArrayDemo/multiDimensionalArrayDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/overriding/overriding.iml" filepath="$PROJECT_DIR$/Java/overriding/overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/overridingDemo/overridingDemo.iml" filepath="$PROJECT_DIR$/Java/overridingDemo/overridingDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/reCapDemo1/reCapDemo1.iml" filepath="$PROJECT_DIR$/Java/reCapDemo1/reCapDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/stringsDemo/stringsDemo.iml" filepath="$PROJECT_DIR$/Java/stringsDemo/stringsDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/switch/switch.iml" filepath="$PROJECT_DIR$/Java/switch/switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/variables/variables.iml" filepath="$PROJECT_DIR$/Java/variables/variables.iml" />
+    </modules>
+  </component>
+</project>
